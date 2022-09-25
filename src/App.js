@@ -1,5 +1,5 @@
 import { Navbar, Feed, RightBar, Sidebar } from './components';
-import { Box, Container, Stack } from '@mui/material';
+import { Stack } from '@mui/material';
 
 function App() {
   return (
